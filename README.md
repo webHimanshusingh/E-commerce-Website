@@ -1,5 +1,8 @@
 # E-commerce-Website
-This is my E-Commerce
+This is my E-Commerce<br>
+
+#Join
+
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
@@ -33,5 +36,9 @@ Customer Service Hours: Let customers know when they can reach out for help.<br>
 6. Blog or News Section<br>
 Informative Articles: Write about industry trends, how-to guides, product usage tips, etc.<br>
 SEO-Friendly Content: Use keywords to improve search engine rankings.<br>
+
+#Output - 1
 ![Screenshot 2024-05-19 154310](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/b1ced227-ad58-419b-9473-e6a08dd129d6)
+
+#Output - 2
 ![Screenshot 2024-05-19 155256](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/93a1f723-61d1-43b5-b644-ce5ff0094ad0)
