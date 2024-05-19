@@ -34,4 +34,4 @@ Customer Service Hours: Let customers know when they can reach out for help.<br>
 Informative Articles: Write about industry trends, how-to guides, product usage tips, etc.<br>
 SEO-Friendly Content: Use keywords to improve search engine rankings.<br>
 ![Screenshot 2024-05-19 154310](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/b1ced227-ad58-419b-9473-e6a08dd129d6)
-![Screenshot 2024-05-19 154326](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/0d2b5b78-8685-4160-921b-f2aa1c55472a)
+![Screenshot 2024-05-19 155256](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/93a1f723-61d1-43b5-b644-ce5ff0094ad0)
