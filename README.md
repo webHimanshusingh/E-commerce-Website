@@ -6,7 +6,12 @@ This is my E-Commerce<br>
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
+## 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
 
+# Jion us
 Creating content for an e-commerce website involves several key components to ensure that<br>
 the site is engaging, informative, and easy to navigate for customers. Here are some <br>
 essential content elements and tips for an effective e-commerce website:<br>
@@ -37,8 +42,8 @@ Customer Service Hours: Let customers know when they can reach out for help.<br>
 Informative Articles: Write about industry trends, how-to guides, product usage tips, etc.<br>
 SEO-Friendly Content: Use keywords to improve search engine rankings.<br>
 
-
+# OUTPUT - 1
 ![Screenshot 2024-05-19 154310](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/b1ced227-ad58-419b-9473-e6a08dd129d6)
 
-
+# OUTPUT - 2
 ![Screenshot 2024-05-19 155256](https://github.com/webHimanshusingh/E-commerce-Website/assets/170223793/93a1f723-61d1-43b5-b644-ce5ff0094ad0)
